@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 My name is Otto Johansson
+===============================
 
-<!--
-**Johanssono/Johanssono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student and webbdeveloper in training
+-------------------------------------
 
-Here are some ideas to get you started:
+I have been coding for almost a year now, and aspire to learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Sweden
+
+### Skills
+
+
+<p align="left">
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Johanssono" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/otto-johansson-72915624a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
